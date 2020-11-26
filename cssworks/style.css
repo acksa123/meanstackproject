@@ -1,0 +1,41 @@
+h1{
+    color: red;
+}
+#one{
+    color:rgb(50, 145, 168) ;
+}
+div{
+    margin: auto;
+    
+}
+div label{
+    margin-left:180px ;
+}
+div li{
+    margin-left: 180px;
+}
+body{
+    background-color: rgb(50, 168, 127);
+    background-image: url('dream11.jpg');
+    background-repeat: no-repeat ;
+    background-size: 100% 100%;
+}
+div{
+    border-style: solid;
+    background-color: yellow;
+    border-width: 5px;
+    border-color: rgb(207, 20, 192);
+    width: 50%;
+}
+#mi{
+    border-style: solid;
+    border-color: rgb(4, 13, 26);
+    background-color: rgb(50, 91, 168);
+    border-width: 5px;
+}
+.team{
+    border-style: solid;
+    border-color: rgb(172, 230, 14);
+    background-color: rgb(235, 14, 32);
+    border-width: 5px;
+}

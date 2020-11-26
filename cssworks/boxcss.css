@@ -1,0 +1,25 @@
+#top{
+    border-style: solid;
+    border-color: darkgrey;
+    width: 50%;
+    border-width: 6px;
+    margin-left: 250px;
+    margin-top:5%;
+    padding-left: 300px;
+    background-color: coral;
+    font-family: 'Pangolin', cursive;
+}
+#bottom{
+    border-style: solid;
+    border-color: darkblue;
+    width: 50%;
+    border-width: 6px;
+    margin-top: 450px;
+    margin-left: 250px;
+    padding-left: 300px;
+    background-color:cornflowerblue;
+    font-family: 'Indie Flower', cursive;
+}
+h1{
+    font-family: 'Acme', sans-serif;
+}
